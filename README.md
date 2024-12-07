@@ -24,7 +24,7 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 ![GIF de programación](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ### 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gi4ncarlo&show_icons=true&theme=radical)
 
 
 > "El mejor código es el que nunca escribiste." - Bill Gates
