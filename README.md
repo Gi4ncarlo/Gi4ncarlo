@@ -9,11 +9,12 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=java&logoColor=white)
-![Nest](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=nest&logoColor=white)
-![Tailwind](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=tailwind&logoColor=white)
-![Next](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=next&logoColor=white)
-![TypeOrm](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=typeorm&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-F37626?style=for-the-badge&logo=typeorm&logoColor=white)
+
 
 ### 🌟 Proyectos destacados
 - [Barbería del Nonno](https://github.com/tuUsuario/barberia-del-nonno)  
