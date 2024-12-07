@@ -14,6 +14,10 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-F37626?style=for-the-badge&logo=typeorm&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
 
 
 ### 🌟 Proyectos destacados
@@ -24,7 +28,7 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 
 ### 📫 Contáctame
 - Email: giancarlozanarini11@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/juanperez/)
+- [LinkedIn]([https://www.linkedin.com/in/juanperez/](https://www.linkedin.com/in/giancarlo-zanarini-316684257/)
 
 - ![GitHub followers](https://img.shields.io/github/followers/tuUsuario?style=social)
 ![GIF de programación](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
