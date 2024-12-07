@@ -26,15 +26,24 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 - [Portafolio personal](https://github.com/tuUsuario/portafolio)  
   Mi sitio web personal con proyectos y contacto.
 
-### 📫 Contáctame
-- Email: giancarlozanarini11@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/juanperez/](https://www.linkedin.com/in/giancarlo-zanarini-316684257/)
+### 📬 ¿Quieres ponerte en contacto conmigo?
 
-- ![GitHub followers](https://img.shields.io/github/followers/tuUsuario?style=social)
+💌 **Email**: [giancarlozanarini11@gmail.com](mailto:giancarlozanarini11@gmail.com)  
+🌐 **LinkedIn**: [Giancarlo Zanarini](https://www.linkedin.com/in/giancarlo-zanarini-316684257/)  
+
+📩 **¿Tienes un proyecto o una idea?** ¡No dudes en escribirme! Estoy abierto a colaborar en proyectos interesantes y emocionantes. 🚀  
+
+
 ![GIF de programación](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ### 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gi4ncarlo&show_icons=true&theme=radical)
+
+#### 🖥️ Tecnologías más usadas:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gi4ncarlo&layout=compact&theme=radical)
+
+#### 🏆 Contribuciones recientes:
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gi4ncarlo&theme=radical)
+
 
 
 > "El mejor código es el que nunca escribiste." - Bill Gates
