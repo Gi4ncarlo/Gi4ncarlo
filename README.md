@@ -27,10 +27,11 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 
 
 ### 🌟 Proyectos destacados
-- [Barbería del Nonno](https://github.com/tuUsuario/barberia-del-nonno)  
-  Sistema de turnos para una barbería, utilizando React y PostgreSQL.
-- [Portafolio personal](https://github.com/tuUsuario/portafolio)  
-  Mi sitio web personal con proyectos y contacto.
+- [Vicnasol Jardineria (Proyecto Final @Henry)](https://github.com/Gi4ncarlo/ProyectoFinal-Henry)  
+  Sistema de gestion y contratacion de Jardineros, utilizando React,Next,Nest,TypeScript.
+
+- [Cinemania](https://github.com/Gi4ncarlo/Cinemania-Proyect)
+  Sistema de contratacion de tickets para peliculas.
 
 ### 📬 ¿Quieres ponerte en contacto conmigo?
 
