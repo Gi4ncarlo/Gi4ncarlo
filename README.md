@@ -2,13 +2,18 @@
 
 **Desarrollador Full Stack | Apasionado por el código limpio y eficiente**
 
-Soy un desarrollador con experiencia en tecnologías como React, Node.js y PostgreSQL. 
+Soy un desarrollador con experiencia en tecnologías como React, Node.js, PostgreSQL, Java, Nest, Tailwind, Next, TypeOrm. 
 Me encanta resolver problemas y aprender cosas nuevas todos los días.
 
 ### 🚀 Tecnologías y herramientas
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=java&logoColor=white)
+![Nest](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=nest&logoColor=white)
+![Tailwind](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=tailwind&logoColor=white)
+![Next](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=next&logoColor=white)
+![TypeOrm](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### 🌟 Proyectos destacados
 - [Barbería del Nonno](https://github.com/tuUsuario/barberia-del-nonno)  
