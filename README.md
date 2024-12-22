@@ -33,6 +33,9 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 - [Cinemania](https://github.com/Gi4ncarlo/Cinemania-Proyect)
   Sistema de contratacion de tickets para peliculas.
 
+- [Portfolio](https://zanariniportfolio.vercel.app/)
+  Portfolio personal donde poder ver mas informacion sobre mi.
+
 ### 📬 ¿Quieres ponerte en contacto conmigo?
 
 💌 **Email**: [giancarlozanarini11@gmail.com](mailto:giancarlozanarini11@gmail.com)  
