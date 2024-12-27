@@ -27,7 +27,7 @@ Me encanta resolver problemas y aprender cosas nuevas todos los días.
 
 
 ### 🌟 Proyectos destacados
-- [Vicnasol Jardineria (Proyecto Final @Henry)](https://github.com/Gi4ncarlo/ProyectoFinal-Henry)  
+- [Vicnasol Jardineria (Proyecto Final @Henry)](https://pleasing-harmony-production.up.railway.app/)  
   Sistema de gestion y contratacion de Jardineros, utilizando React,Next,Nest,TypeScript.
 
 - [Cinemania](https://github.com/Gi4ncarlo/Cinemania-Proyect)
